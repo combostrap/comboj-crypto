@@ -20,6 +20,8 @@
   </build>
   <artifactId>combostrap-crypto</artifactId>
   <version>0.1.0-SNAPSHOT</version>
+  <url>https://github.com/combostrap/comboj-crypto</url>
+  <description>A collection of crypto utilities for digest, data encryption and secret handling</description>
 
   <parent>
     <groupId>com.combostrap</groupId>
